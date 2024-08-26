@@ -9,8 +9,7 @@
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
-   cd project
+   git clone https://github.com/bhosalevivek04/Redis-Project.git
 2. **Install dependencies:** 
     ```bash
     npm install
