@@ -1,4 +1,3 @@
-// src/taskHandler.js
 const fs = require('fs');
 const winston = require('winston');
 
