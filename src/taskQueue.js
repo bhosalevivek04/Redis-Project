@@ -1,4 +1,3 @@
-// src/taskQueue.js
 const { RateLimiterRedis } = require('rate-limiter-flexible');
 const Redis = require('ioredis');
 const { handleTask } = require('./taskHandler');
