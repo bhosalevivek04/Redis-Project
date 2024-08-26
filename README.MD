@@ -10,12 +10,15 @@
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/bhosalevivek04/Redis-Project.git
-2. **Install dependencies:** 
+   cd Redis-Project
+2. **Install dependencies(If Require):** 
     ```bash
     npm install
 3. **Start Redis:**
+   ```bash
+    Redis-server
     ```bash
-    redis-server
+    Redis-server.exe "C:\Program Files\Redis\redis.windows.conf" --port 6380
 4. **Run the server:**
     ```bash
     node src/server.js
